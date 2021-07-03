@@ -1,0 +1,13 @@
+body {
+   background-color: $preta;
+   font-family: 'Open Sans', sans-serif;
+   color: $branco;
+}
+
+header .container {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   margin: auto 2%;
+}
